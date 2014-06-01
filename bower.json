@@ -1,0 +1,21 @@
+{
+  "name": "batisseur",
+  "version": "0.0.0",
+  "authors": [
+    "ngryman <ngryman@gmail.com>"
+  ],
+  "description": "Batisseur prototype.",
+  "license": "MIT",
+  "homepage": "https://github.com/ngryman/batisseur",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "vendor"
+  ],
+  "dependencies": {
+    "loop": "~0.0.1"
+  },
+  "devDependencies": {
+    "tweenjs": "*"
+  }
+}
